@@ -1,0 +1,4 @@
+dryAirFOM.C
+
+EXE = /scratch/mgirfogl/super_res/super-resolution-mesoscale/source_FOM/dryAirFOM/dryAirFOM
+
